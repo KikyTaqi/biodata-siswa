@@ -8,12 +8,4 @@ Daftar biodata siswa Crocodic Academy
 - Angkatan 2023
 
 **Cara Melihat List Config Git**
-`git config --list`
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+```git config --list```
