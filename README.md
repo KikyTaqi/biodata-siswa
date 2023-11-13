@@ -8,4 +8,4 @@ Daftar biodata siswa Crocodic Academy
 - Angkatan 2023
 
 **Cara Melihat List Config Git**
-'git config --list'
+`git config --list`
