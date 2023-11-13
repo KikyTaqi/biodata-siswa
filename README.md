@@ -6,3 +6,4 @@ Daftar biodata siswa Crocodic Academy
 - Angkatan 2021
 - Angkatan 2022
 - Angkatan 2023
+- Angkatan 2023
