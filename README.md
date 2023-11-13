@@ -9,7 +9,11 @@ Daftar biodata siswa Crocodic Academy
 
 **Cara Melihat List Config Git**
 `git config --list`
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
