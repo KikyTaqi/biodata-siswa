@@ -1,4 +1,6 @@
-#Biodata siswa angkatan 2021
+# biodata-siswa
+Daftar biodata siswa Crocodic Academy
+---
 1. Nama   : Rifqi Ramandhani Taqiyudin
    No     : 27
    Kelas  : XI PPLG 1
