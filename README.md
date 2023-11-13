@@ -9,3 +9,7 @@ Daftar biodata siswa Crocodic Academy
 
 **Cara Melihat List Config Git**
 `git config --list`
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
